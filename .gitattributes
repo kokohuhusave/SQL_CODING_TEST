@@ -1,2 +1,0 @@
-# 모든 .sql 파일을 SQL로 인식하게 설정
-*.sql linguist-language=SQL
